@@ -1,3 +1,4 @@
-컴파일 실행 코드:
 $ gcc mycp.c -o mycp
+:  위 명령은 mycp.c 파일을 컴파일하여 mycp라는 실행 파일을 생성합니다.
 $ ./mycp f1.txt f2.txt
+:  위 명령은 mycp 프로그램을 실행합니다.
