@@ -1,0 +1,3 @@
+컴파일 실행 코드:
+$ gcc mycp.c -o mycp
+$ ./mycp f1.txt f2.txt
